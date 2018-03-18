@@ -1,11 +1,11 @@
 +++
 # Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
-widget = "publications"
-active = false
-date = 2016-04-20
+# This widget displays recent publications from `content/petprojects/`.
+widget = "petprojects" #"publications"
+active = true
+date = 2018-03-15
 
-title = "Recent Publications"
+title = "Pet Projects" #name appeared in subpage
 subtitle = ""
 
 # Order that this section will appear in.
