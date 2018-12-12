@@ -11,13 +11,13 @@ weight = 5
 [interests]
   interests = [
     "Image Processing",
-    "Computer Vision",
-    "Machine Learning"
+    "Sparse Representation Learning",
+    "Optimization for learning problems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MS in Electrical and Computer Engineering"
+  course = "MS in Electrical and Computer Engineering (Current)"
   institution = "University of Michigan, Ann Arbor"
   year = 2019
 
