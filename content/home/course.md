@@ -15,10 +15,11 @@ weight = 9
 
 +++
 
-I have taken the following courses at University of Michigan:
+I am enrolled into the following courses at University of Michigan:
 
 - EECS 501: Random Process
 - EECS 551: Matrix Methods for Signal Processing, Data Analysis and Machine Learning
-- EECS 545: Machine Learning
-- EECS 504: Foundations of Computer Vision
-- EECS 556: Image Processing
+- EECS 560 Linear System Theory
+- EECS 545: Machine Learning(Currently taking)
+- EECS 504: Foundations of Computer Vision(Currently taking)
+- EECS 556: Image Processing(Currently taking)
